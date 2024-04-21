@@ -34,7 +34,7 @@ I am a passionate computer science student currently pursuing my MSc in Computer
    - GitHub Repository: Link
 
 ## Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)
+- LinkedIn: [Balakrishnan R](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)
 - Email: alab2252@gmail.com
 
 ## Interests
