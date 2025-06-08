@@ -31,26 +31,30 @@ Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experien
 
 ## 📂 Data Science Projects
 
-### 📦 YouTube Data Harvesting with MongoDB + Streamlit
+### 📦 [YouTube Data Harvesting with MongoDB + Streamlit](https://github.com/BalaKrishnanCodeSpace/YouTube_Data_Harvesting.git)
 > Extracts channel, video, and playlist data using YouTube API and stores in MongoDB. Visualized via Streamlit interface.
 
-### 🏠 Singapore Housing Price Prediction
-> Regression modeling to forecast housing prices with exploratory analysis and dashboards.
-
-### 🛵 Zomato Delivery Time Estimator
-> Predictive model using delivery, customer, and traffic data. Highlights factors influencing delivery times.
-
-### 📇 BizCard Reader App
-> OCR + Streamlit app that extracts structured info from business cards and stores it in MySQL.
-
-### 📈 PhonePe Pulse Data Visualization
+### 📈 [PhonePe Pulse Data Visualization](https://github.com/BalaKrishnanCodeSpace/Phonepe_Pulse_Data_Extraction_-_Visualization.git)
 > Analyzed and visualized transaction data from PhonePe Pulse. Created interactive dashboards using Plotly and Streamlit.
 
-### 🔩 Copper Industry Price Forecasting
+### 📇 [BizCard Reader App](https://github.com/BalaKrishnanCodeSpace/BizCardX-Extracting-Business-Card-Data-with-OCR.git)
+> OCR + Streamlit app that extracts structured info from business cards and stores it in MySQL.
+
+### 🏡 [Airbnb Price Analysis](https://github.com/BalaKrishnanCodeSpace/Airbnb_Analysis.git)
+> Cleaned and analyzed Airbnb datasets to uncover patterns and generate host revenue predictions.
+
+### 🏠 [Singapore Housing Price Prediction](https://github.com/BalaKrishnanCodeSpace/Singapore-Resale-Flat-Prices-Predicting.git)
+> Regression modeling to forecast housing prices with exploratory analysis and dashboards.
+
+### 🔩 [Copper Industry Price Forecasting](https://github.com/BalaKrishnanCodeSpace/Industrial-Copper-Modeling.git)
 > Classification + Regression models built to understand copper price trends for B2B applications.
 
-### 🏡 Airbnb Price Analysis
-> Cleaned and analyzed Airbnb datasets to uncover patterns and generate host revenue predictions.
+### 🛵 [Zomato Delivery Time Estimator](https://github.com/BalaKrishnanCodeSpace/Vaccine_Usage_Prediction-And-Zomato_Data_Analysis_And_Visualization.git)
+> Predictive model using delivery, customer, and traffic data. Highlights factors influencing delivery times.
+
+### 🛵 [Vaccine Usage Prediction](https://github.com/BalaKrishnanCodeSpace/Vaccine_Usage_Prediction-And-Zomato_Data_Analysis_And_Visualization.git)
+> Built a classification model to predict vaccine usage trends based on demographic and regional health data.
+
 
 ---
 
