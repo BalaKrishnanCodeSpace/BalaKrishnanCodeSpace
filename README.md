@@ -1,6 +1,6 @@
 # 👨‍💼 Balakrishnan Ravikumar | Lead Business Analyst & BI Developer
 
-Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experience in operations, analytics, and business intelligence – with a special knack for **Power BI**, **SQL**, and **automating complex reporting systems** in the insurance domain. My GitHub is where dashboards, Python scripts, and reporting logic come to life.
+Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experience in operations, analytics, and business intelligence – with a special knack for **Power BI**, **SQL**, and **automating complex reporting systems** in the insurance domain.
 
 ---
 
