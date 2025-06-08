@@ -1,4 +1,4 @@
-# 👨‍💼 Balakrishnan Ravikumar | Lead Business Analyst & BI Developer
+# 👨‍💼 Balakrishnan Ravikumar | Lead Business Analyst
 
 Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experience in operations, analytics, and business intelligence – with a special knack for **Power BI**, **SQL**, and **automating complex reporting systems** in the insurance domain.
 
