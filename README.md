@@ -1,43 +1,83 @@
-# Balakrishnan
+# 🧠 Krists – Data Scientist | AI Enthusiast | Problem Solver
 
-## About Me
-I am a passionate computer science student currently pursuing my MSc in Computer Science. With a strong foundation in programming and data analysis, I am eager to contribute to innovative projects and collaborate with like-minded individuals.
+Welcome to my GitHub! I'm Krists – a data scientist who turns chaos into clarity with code, charts, and caffeine ☕. I work at the intersection of logic, creativity, and business value. This repo is a showcase of my journey through the worlds of data science, machine learning, deep learning, and AI applications.
 
-## Education
-- **B.Sc in Computer Science**
-  - Madras University
-  - 2009
+---
 
-- **MSc in Computer Science (Ongoing)**
-  - Annamalai University
-  - Expected Graduation: 2025
+## 🚀 About Me
 
-## Skills
-- **Languages:** Python, SQL
-- **Tools:** Power BI, ETL, MS Excel
-- **Frameworks:** Streamlit
+- 📊 Currently working on legal analytics and AI automation for the insurance industry
+- 🛠️ Skilled in SQL, Python, Power BI, Excel, and machine learning
+- 🧠 Learning deep learning with PyTorch and CNNs
+- 🤖 Exploring RAG, LangChain, LangGraph, and agentic AI
+- 📚 Strong believer in structured learning, real-world projects, and continuous improvement
 
-## Projects
-1. **Stock Price Prediction using Machine Learning**
-   - Developed a Python-based machine learning model to predict stock prices.
-   - Utilized historical stock data and various algorithms (e.g., Linear Regression, LSTM).
-   - GitHub Repository: Link
+---
 
-2. **Data Visualization Dashboard with Power BI**
-   - Created an interactive dashboard using Power BI to visualize sales data.
-   - Integrated data from multiple sources and designed insightful visualizations.
-   - GitHub Repository: Link
+## 🧩 My Tech Stack
 
-3. **ETL Pipeline for Customer Data**
-   - Designed an ETL (Extract, Transform, Load) pipeline to process customer data.
-   - Used SQL for data extraction and transformation.
-   - GitHub Repository: Link
+| Category            | Tools & Technologies |
+|---------------------|----------------------|
+| Languages           | Python, SQL          |
+| Data Wrangling      | Pandas, NumPy        |
+| Data Viz            | Power BI, Matplotlib, Seaborn |
+| Machine Learning    | Scikit-learn, XGBoost |
+| Deep Learning       | PyTorch, CNNs        |
+| Databases           | MySQL, Oracle, MongoDB |
+| NLP & RAG           | LangChain, Transformers |
+| Dashboarding        | Power BI, Streamlit  |
+| Cloud & Deployment  | GitHub Actions, Streamlit Share |
+| Other Tools         | Git, GitHub, Excel   |
 
-## Contact
-- LinkedIn: [Balakrishnan R](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)
-- Email: alab2252@gmail.com
+---
 
-## Interests
-Apart from coding, I enjoy playing the guitar and exploring new hiking trails.
+## 🧪 Featured Projects
 
-Feel free to connect with me! Let's collaborate on exciting projects. 🚀
+### 📂 Document Intelligence System
+> **Automates info extraction from petitions, orders, and court documents using OCR and transformer-based models.**
+- 🧾 Languages: Regional → English translation
+- 🔍 Dynamic field extraction
+- 🧠 Chatbot on top of internal legal data
+
+### 🎯 Zomato Delivery Time Prediction
+> Used regression models to predict delivery times using customer, location, and order data.
+- 🔢 Feature Engineering
+- 🔍 Model Evaluation
+- 📊 Dashboard in Power BI
+
+### 🏡 Singapore Housing Price Prediction
+> Time series + regression model to predict housing trends in Singapore.
+- 📈 Feature selection
+- 🏙️ EDA + Insights
+- 📊 Power BI interactive dashboards
+
+More projects: [Check the pinned repos!](https://github.com/yourusername?tab=repositories)
+
+---
+
+## 📌 Currently Learning
+
+- 📘 Deep Learning (CNNs, RNNs, Transformers)
+- 🔗 LangChain & LangGraph for agentic workflows
+- 🧠 Building local LLM + RAG pipelines for enterprise use
+- ⚙️ System design for AI/ML apps
+
+---
+
+## 💡 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🧪 [Kaggle](https://www.kaggle.com/your-profile)
+- 📬 Drop a line: your.email@example.com
+
+> *"In God we trust. All others must bring data." – W. Edwards Deming*
+
+---
+
+## 📜 License
+
+This repository and all projects here are under the [MIT License](LICENSE).
+
+---
+
+🧠 Built with purpose | 💻 Coded with love | 📊 Driven by data
