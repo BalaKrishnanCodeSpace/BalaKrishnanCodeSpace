@@ -88,17 +88,26 @@ Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experien
 
 ## 🎓 Education & Certification
 
-- 📚 **M.Sc. Computer Science** – Annamalai University *(Ongoing)*
-- 📘 **B.Sc. Computer Science** – Kumararani Meena Muthiah College of Arts & Science
-- 📜 **Data Science Certification** – GUVI, Dec 2024
+- 📚 **M.Sc. Computer Science** – Annamalai University *(Ongoing)* | 2023 - Present
+- 📘 **B.Sc. Computer Science** – Kumararani Meena Muthiah College of Arts & Science | 2006 - 2009
+- 📜 **Data Science Certification** – **GUVI** | Dec 2024
+
+---
+
+![Balakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakrishnanCodeSpace&theme=dark&show_icons=true&&hide=issues,contribs)
+
+---
+
+[![Balakrishnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BalakrishnanCodeSpace&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
 
 ---
 
 ## 🌐 Let’s Connect
 
-- 🔗 [LinkedIn](linkedin.com/in/balakrishnan-ravikumar-8790732b6)
-- 💻 [GitHub](https://github.com/BalaKrishnanCodeSpace)
-- 📬 Email: alab2252@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/balakrishnan-ravikumar-8790732b6)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)]([https://github.com/BalaKrishnanIronman](https://github.com/BalaKrishnanCodeSpace))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alab2252@gmail.com)
+
 
 > *"Without data, you're just another person with an opinion." – W. Edwards Deming*
 
