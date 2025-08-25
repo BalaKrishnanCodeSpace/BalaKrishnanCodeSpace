@@ -1,4 +1,11 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=435&lines=Hi!!!!;Welcome+to+My+Profile)](https://git.io/typing-svg)
+
 # 👨‍💼 Balakrishnan Ravikumar | Lead Business Analyst
+
+
+
+
 
 Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experience in operations, analytics, and business intelligence – with a special knack for **Power BI**, **SQL**, and **automating complex reporting systems** in the insurance domain.
 
