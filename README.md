@@ -84,27 +84,6 @@ Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experien
 
 ---
 
-## 🏆 Awards & Recognition
-
-### Royal Sundaram Insurance
-- 🥇 **Shreshta Award (2024)** – For high-impact dashboards
-- 🏅 **GEM Award (2021)** – Excel & Access-based process automation
-- 🌟 **Star Performer (2019)** – Consistent excellence in reporting
-
-### Tata Consultancy Services
-- 🏆 **Champ of the Year (2013)** – Performance KPIs exceeded
-- 🎖️ **Rewards and Recognition Award (2012)** – Operational excellence in loan analytics
-
----
-
-## 🎓 Education & Certification
-
-- 📚 **M.Sc. Computer Science** – Annamalai University *(Ongoing)* | 2023 - Present
-- 📘 **B.Sc. Computer Science** – Kumararani Meena Muthiah College of Arts & Science | 2006 - 2009
-- 📜 **Data Science Certification** – **GUVI** | Dec 2024
-
----
-
 ![Balakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakrishnanCodeSpace&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ---
