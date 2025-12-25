@@ -26,14 +26,6 @@ My focus is on practical problem-solving, end-to-end workflows, and clear docume
 | 📊 **BI Tools**      | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat&logo=qlik&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
 | 🛢️ **Databases**     | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 
-![Balakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakrishnanCodeSpace&theme=dark&show_icons=true&&hide=issues,contribs)
-
----
-
-[![Balakrishnan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BalakrishnanCodeSpace&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)]
-
----
-
 ## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/balakrishnan-ravikumar-8790732b6)
