@@ -1,24 +1,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=435&lines=Hi!!!!;Welcome+to+My+Profile)](https://git.io/typing-svg)
 
-# 👨‍💼 Balakrishnan Ravikumar | Lead Business Analyst
+# 👨‍💼 Balakrishnan Ravikumar | Data Scientist
 
 
 
-
-
-Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experience in operations, analytics, and business intelligence – with a special knack for **Power BI**, **SQL**, and **automating complex reporting systems** in the insurance domain.
+I build applied analytics and machine learning projects using **Python** and **SQL**.
+My focus is on practical problem-solving, end-to-end workflows, and clear documentation.
 
 ---
 
-## 🔍 Professional Snapshot
-
-- 🎯 **Lead Business Analyst** @ Royal Sundaram Insurance
-- 📊 4+ years in **analytics and BI** | 14+ years total experience
-- 💻 Strong command of **Power BI**, **DAX**, **SQL**, and **QlikView**
-- 🛠️ Builder of high-impact dashboards, ETL pipelines, and automation tools
-- 🧠 Currently pursuing **M.Sc. in Computer Science** (2023–Present)
-- 🧪 Certified in **Data Science – GUVI, Dec 2024**
+🔹 **Areas of interest:**
+- Data analysis and exploratory data analysis (EDA)
+- Machine learning fundamentals and model evaluation
+- Applied AI projects (RAG, vector search)
+- Basic model deployment and APIs
 
 ---
 
@@ -28,11 +24,7 @@ Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experien
 |------------------|-------------|
 | 🐍 **Languages**     | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-FFE500?style=flat&logo=powerbi&logoColor=black) |
 | 📊 **BI Tools**      | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![QlikView](https://img.shields.io/badge/QlikView-009845?style=flat&logo=qlik&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| ⚙️ **ETL & Automation** | ![SSIS](https://img.shields.io/badge/SSIS-0078D4?style=flat&logo=microsoft-sql-server&logoColor=white) ![MS Access](https://img.shields.io/badge/MS--Access-A4373A?style=flat&logo=microsoft-access&logoColor=white) |
-| 🧾 **Docs & Agile**   | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) |
 | 🛢️ **Databases**     | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| 📄 **Documentation** | ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white) ![MS Word](https://img.shields.io/badge/MS--Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) |
-| 💼 **Office Tools**  | ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) |
 
 ---
 
@@ -64,24 +56,6 @@ Welcome! I'm Balakrishnan, a data-driven professional with 14+ years of experien
 
 
 ---
-
-## 🧩 Corporate Projects
-
-### 🏛️ Legal Analytics Dashboards – Power BI
-> Designed dynamic dashboards with API-based filters for Legal TP & Ombudsman domains. Enhanced report utilization by 25%.
-
-### 📈 Regulatory Reporting Automation
-> Automated IRDA, IIB, and XOL reports – reducing manual effort by 35% and boosting compliance reliability.
-
-### 💡 Cost Optimization in Claims
-> Identified 15% cost-saving in Motor TP claims using DAX modeling and deep data insights.
-
-### 🧪 Custom ETL & Data Model Optimization
-> Improved data ingestion speed by 20% using streamlined connectors and Power BI data model enhancements.
-
-### 🔄 ETL Optimization with SSIS & Power BI
-> Built and maintained ETL pipelines using SSIS and custom connectors, improving data ingestion by 20% and ensuring smooth refresh cycles for Power BI dashboards across legal and claims reporting.
-
 ---
 
 ![Balakrishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BalakrishnanCodeSpace&theme=dark&show_icons=true&&hide=issues,contribs)
